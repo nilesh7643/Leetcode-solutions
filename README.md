@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1991-find-the-middle-index-in-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
