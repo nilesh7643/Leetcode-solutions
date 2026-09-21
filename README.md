@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
