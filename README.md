@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
