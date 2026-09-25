@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
