@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1550-three-consecutive-odds](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1991-find-the-middle-index-in-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
