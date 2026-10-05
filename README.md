@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0455-assign-cookies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
