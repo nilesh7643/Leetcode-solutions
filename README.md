@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0867-transpose-matrix) |
