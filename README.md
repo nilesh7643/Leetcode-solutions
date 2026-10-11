@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1550-three-consecutive-odds](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1991-find-the-middle-index-in-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
