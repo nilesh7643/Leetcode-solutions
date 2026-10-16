@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Sorting
