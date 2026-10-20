@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
