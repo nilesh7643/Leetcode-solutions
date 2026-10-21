@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
