@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1089-duplicate-zeros](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1550-three-consecutive-odds](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1991-find-the-middle-index-in-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
