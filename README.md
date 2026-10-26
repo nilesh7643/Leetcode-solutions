@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1952-three-divisors](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
 |  |
@@ -268,5 +270,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
