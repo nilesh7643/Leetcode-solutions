@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [3110-score-of-a-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
