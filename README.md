@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
