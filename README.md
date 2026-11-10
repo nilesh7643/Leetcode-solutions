@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Greedy
