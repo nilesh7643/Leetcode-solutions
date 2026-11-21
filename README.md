@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2544-alternating-digit-sum](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nilesh7643/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
