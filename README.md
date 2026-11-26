@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/nilesh7643/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [2396-strictly-palindromic-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nilesh7643/Leetcode-solutions/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/nilesh7643/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
